@@ -16,5 +16,5 @@ jobs:
       - name: Show files
         run: ls -la
 
-      - name: Run test
-        run: echo "Tests passed!"
+      - name: Test
+        run: echo "CI workflow is working!"
